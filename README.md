@@ -1,6 +1,6 @@
 # picoMIDI USB MIDI Interface
 
-Arduino firmware that turns a Midimuso picoMIDI board and Raspberry Pi Pico
+Firmware that turns a Midimuso picoMIDI board and Raspberry Pi Pico
 into a class-compliant USB MIDI interface with one physical MIDI input and two
 independently addressable MIDI outputs.
 
